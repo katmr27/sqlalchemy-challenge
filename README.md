@@ -2,7 +2,7 @@
 Module 10 Challenge
 
 Files Located: 
-Starter Code> kr_climate_starter
+Starter Code> kr_climate_starter,
 Starter Code> kr_app.py
 
 Resources Used:
